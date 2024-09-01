@@ -41,7 +41,7 @@ The SQL query performs several data transformation and cleansing steps:
 8. **Calculate `avg_transaction`**: Computes the average transaction value by dividing `sales` by `transactions`, rounded to 2 decimal places.
 
 
-### SQL Query for Data Cleansing
+### 1. SQL Query for Data Cleansing
 
 ```sql
 USE data_mart;
